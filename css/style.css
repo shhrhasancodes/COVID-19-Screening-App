@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+.modal-dialog {
+    position: fixed;
+    width: 100%;
+    margin: 0px;
+    pointer-events: none;
+    height: 100%;
+    background: white;
+    border: none;
+}
+
+body{
+    font-family: Montserrat;
+}
+
+.resultp{
+    font-size: 125%;
+    margin-top: 30px;
+}
+
+
+/* .modal-dialog2 {
+    position:relative;
+    width: 100%;
+    margin: 0px;
+    pointer-events: none;
+    height: auto;
+    background: white;
+    border: none;
+} */
+
+
+
+.modal-header{
+    background-color: rgb(228, 228, 228);
+}
+
+.modal-content{
+    height: 100%;
+}
+
+.questionare .image{
+    width: 100%;
+    margin-top: 50px;
+}
+.questionare .buttons{
+    width: 100%;
+    display: block;
+    bottom: 60px;
+    margin-top: 90px;
+
+}
+
+.questionare .row{
+    display: none;
+}
+
+
+.questionare .active{
+    display: block;
+}
+
+
+
