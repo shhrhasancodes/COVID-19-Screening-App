@@ -11,11 +11,28 @@
 
 body{
     font-family: Montserrat;
+    font-weight:200;
+    font-size: 110%;
 }
+
+.modal-body p{
+    font-weight: 500;
+}
+
+.modal-body h3{
+    font-weight: bold;
+}
+
+.modal-body h5{
+    font-weight: 700;
+}
+
 
 .resultp{
     font-size: 125%;
     margin-top: 30px;
+    font-weight: 500;
+    
 }
 
 
