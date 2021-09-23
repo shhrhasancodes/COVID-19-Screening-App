@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
 .modal-dialog {
-    position: fixed;
+    position: relative;
     width: 100%;
     margin: 0px;
     pointer-events: none;
-    height: 100%;
+    height: auto;
     background: white;
     border: none;
 }
